@@ -1,5 +1,5 @@
 import React from "react";
-import compose from "../../public/Jetpack-compose.png";
+import compose from "../../public/Jetpack.png";
 import andStd from "../../public/android.webp";
 import java from "../../public/java.png";
 import kotlin from "../../public/kotlin.webp";

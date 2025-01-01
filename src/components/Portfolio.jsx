@@ -1,5 +1,5 @@
 import React from "react";
-import compose from "../../public/Jetpack-compose.png"
+import compose from "../../public/Jetpack.png"
 
 const Portfolio = () => {
     const cardItem=[
